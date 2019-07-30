@@ -1,3 +1,7 @@
+<head>
+<link rel = "stylesheet" type = "text/css" href = "index.css">
+</head>
+
 # Cassidy Johnson
 
 ##### A website built by a student trying to code with one hand and drink coffee with the other
@@ -10,13 +14,18 @@
 
 ### Menu
 
-* [Home](https://cassidyaj.github.io/)
-* [Resume](resume.html)
-* [Blog](blog.html)
-* [Contact Me](contactme.html)
+##### [Home](https://cassidyaj.github.io/)
 
-![strangeplanet](images/strangeplanet.jpg)
+##### [Resume](resume.html)
 
+##### [Blog](blog.html)
+
+##### [Contact Me](contactme.html)
+
+
+##### A few of my favorite comics from Strange Planet :) 
+
+<img src = "images/strangeplanet.jpg" width = "500" height="500"> <img src="https://pbs.twimg.com/media/D43mPsrWsAYRkS7.jpg" width = "500" height="500">
 
 ###  _I\'ve always been more interested in the future than the past_  - Grace Hopper
 
