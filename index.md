@@ -14,13 +14,7 @@
 
 ### Menu
 
-##### [Home](https://cassidyaj.github.io/)
-
-##### [Resume](resume.html)
-
-##### [Blog](blog.html)
-
-##### [Contact Me](contactme.html)
+##### [Home](https://cassidyaj.github.io/) <span class = "dot"></span> [Resume](resume.html) <span class = "dot"></span> [Blog](blog.html) <span class="dot"></span> [Contact Me](contactme.html)
 
 
 ##### A few of my favorite comics from Strange Planet :) 

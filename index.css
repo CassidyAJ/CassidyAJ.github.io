@@ -8,3 +8,10 @@ img {
 	border-radius: 4px;
 	padding: 5px;
 }
+.dot {
+	height : 10px;
+	width : 10px;
+	background-color: #00f;
+	border-radius: 50%;
+	display: inline-block;
+}
