@@ -70,11 +70,11 @@
 * Git version control
 * Linting and formatting skills
 
-### Computer Security Skilss
+### Computer Security Skills
 
 * System monitoring using the Elastic Stack
 
-### General Computing skills
+### General Computing Skills
 
 * LaTeX/Overleaf typesetting
 * Microsoft Office experience
