@@ -5,5 +5,5 @@
 * [Home](https://cassidyaj.github.io/)
 * [Resume](resume.html)
 * [Blog]()
-* [Contact Me]()
+* [Contact Me](contactme.html)
 
